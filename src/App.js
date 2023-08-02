@@ -4,7 +4,7 @@ import SingupSingIn from './pages/singup';
 import Dashboard from './pages/dashboard';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import MyComponent from './Componenets/mycomponent';
+
 
 function App() {
   return (
